@@ -1,5 +1,5 @@
 # SpaceShip-Invader
-A Flash game remake  of the well known Space-Ship Invaders game. The code is written in ActionScript 3.
+A Flash game remake  of the well known Space-Ship Invaders game made by me. The code is written in ActionScript 3.
 
 Prequisites:-
 1)Adobe Flash player(need to be installed to play the game)
